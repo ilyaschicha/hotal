@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hotelbooking/pages/widgets/hotels.dart';
-import 'package:hotelbooking/pages/widgets/Recommendation.dart';
 
 class Dashboard extends StatefulWidget {
   const Dashboard({Key? key}) : super(key: key);

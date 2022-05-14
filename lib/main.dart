@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:hotelbooking/pages/dashboard.dart';
 import 'package:hotelbooking/pages/detail.dart';
 import 'package:hotelbooking/pages/detail2.dart';
-import 'package:hotelbooking/pages/home.dart';
 
 void main() {
   runApp(const MyApp());
